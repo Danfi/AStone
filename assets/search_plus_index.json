@@ -1,16 +1,16 @@
-{"/pages/en/faq/": {
+{"/docs/pages/en/faq/": {
     "title": "FAQ",
     "keywords": "Jekyll",
-    "url": "/pages/en/faq/",
+    "url": "/docs/pages/en/faq/",
     "body": "First time using Firstly, go to the “Preference-Account”, add an account, enabling the addition of multiple ones. Then, add the corresponding roles, such as (translation), select the appropriate GPT model, fill in the corresponding parameters, customize the prompt if desired, and once completed, it will be ready for use. Additionally, you can set the roles as small window roles, allowing you to select their use within the small window. The small window is unable to respond automatically The application needs to be added to the accessibility features, and it should only automatically respond when prompted."
-  },"/pages/en/privacy-policy/": {
+  },"/docs/pages/en/privacy-policy/": {
     "title": "Privacy policy",
     "keywords": "Jekyll",
-    "url": "/pages/en/privacy-policy/",
+    "url": "/docs/pages/en/privacy-policy/",
     "body": "We believe your data is yours and yours alone. We do not store or transmit your personal information or information about your computer, nor do we include any advertising or analytics software that talks to third parties. All data are stored locally on your machine and your Apple iCloud server, we don’t upload any data to our servers."
-  },"/pages/en/shortcut/": {
+  },"/docs/pages/en/shortcut/": {
     "title": "Shortcut",
     "keywords": "Jekyll",
-    "url": "/pages/en/shortcut/",
+    "url": "/docs/pages/en/shortcut/",
     "body": "Custom Shortcut Send MSG Show Main Window Show Small Window Other Shortcut Command + W : Close Tab Command + N : New Chat Command + T : New Tab"
   }}

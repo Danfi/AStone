@@ -1,16 +1,16 @@
-{"/pages/zh/faq/": {
+{"/docs/pages/zh/faq/": {
     "title": "FAQ",
     "keywords": "Jekyll",
-    "url": "/pages/zh/faq/",
+    "url": "/docs/pages/zh/faq/",
     "body": "1. 首次使用 首先需要前往偏好设置-账号，添加账号，允许添加多个 然后添加相应的角色，比如（翻译），选择对应的gpt模型，填写相应的参数，可以自定义prompt，添加完成后就能使用了，也可以把角色设置为小窗角色，这样可以在小窗内选择使用 2. 小窗无法自动回答 需要把应用添加到辅助功能内，并且只有在呼出时可以自动回答"
-  },"/pages/en/privacy-policy/": {
+  },"/docs/pages/en/privacy-policy/": {
     "title": "Privacy policy",
     "keywords": "Jekyll",
-    "url": "/pages/en/privacy-policy/",
+    "url": "/docs/pages/en/privacy-policy/",
     "body": "We believe your data is yours and yours alone. We do not store or transmit your personal information or information about your computer, nor do we include any advertising or analytics software that talks to third parties. All data are stored locally on your machine and your Apple iCloud server, we don’t upload any data to our servers."
-  },"/pages/zh/shortcut/": {
+  },"/docs/pages/zh/shortcut/": {
     "title": "快捷键",
     "keywords": "Jekyll",
-    "url": "/pages/zh/shortcut/",
+    "url": "/docs/pages/zh/shortcut/",
     "body": "自定义快捷键 需要在偏好设置-快捷键内设置 发送消息 呼出主窗 呼出小窗 其他快捷键 Command + W ：关闭标签页 Command + N ：新建对话 Command + T ：新建标签页"
   }}
